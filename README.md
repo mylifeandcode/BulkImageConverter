@@ -3,5 +3,5 @@ An app for quickly converting directories full of images from one format to anot
 
 More information can be found at [https://convertmypics.blogspot.com/](https://convertmypics.blogspot.com/).<br /><br />
 
-<img src="PreviewImages/app.png" alt="The app"
+<img src="PreviewImages/app2.png" alt="The app"
 	width="50%" />
